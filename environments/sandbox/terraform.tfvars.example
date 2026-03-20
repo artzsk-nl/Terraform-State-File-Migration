@@ -1,0 +1,17 @@
+subscription_id = "d3ee0257-dea0-49db-8e34-03cdcf1d0ab5"
+location        = "swedencentral"
+project_name    = "lzlab"
+environment_name = "sandbox"
+allowed_rdp_cidr = "203.0.113.10/32"
+
+vm_admin_username = "azureadmin"
+vm_admin_password = "ChangeMe-UseAStrongPassword!123"
+
+storage_account_tier             = "Standard"
+storage_account_replication_type = "LRS"
+
+tags = {
+  owner       = "platform-team"
+  costCenter  = "it-shared"
+  application = "landing-zone-simple-lab"
+}

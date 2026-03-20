@@ -1,0 +1,4 @@
+resource_group_name  = "rg-tfstates"
+storage_account_name = "sttfstateexample"
+container_name       = "tfstate"
+key                  = "landingzone/sandbox/terraform.tfstate"
