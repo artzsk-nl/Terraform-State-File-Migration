@@ -1,0 +1,67 @@
+{
+	"/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/RG-LZLAB-SANDBOX/providers/Microsoft.Compute/virtualMachines/vm-lzlab-sandbox/extensions/MDE.Windows": {
+		"resource_id": "/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/RG-LZLAB-SANDBOX/providers/Microsoft.Compute/virtualMachines/vm-lzlab-sandbox/extensions/MDE.Windows",
+		"resource_type": "azurerm_virtual_machine_extension",
+		"resource_name": "res-0"
+	},
+	"/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox": {
+		"resource_id": "/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox",
+		"resource_type": "azurerm_resource_group",
+		"resource_name": "res-1"
+	},
+	"/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Compute/virtualMachines/vm-lzlab-sandbox": {
+		"resource_id": "/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Compute/virtualMachines/vm-lzlab-sandbox",
+		"resource_type": "azurerm_windows_virtual_machine",
+		"resource_name": "res-2"
+	},
+	"/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.KeyVault/vaults/kv-newresourceportal": {
+		"resource_id": "/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.KeyVault/vaults/kv-newresourceportal",
+		"resource_type": "azurerm_key_vault",
+		"resource_name": "res-3"
+	},
+	"/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/networkInterfaces/nic-lzlab-sandbox-vm": {
+		"resource_id": "/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/networkInterfaces/nic-lzlab-sandbox-vm",
+		"resource_type": "azurerm_network_interface",
+		"resource_name": "res-4"
+	},
+	"/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/networkInterfaces/nic-lzlab-sandbox-vm/networkSecurityGroups/L3N1YnNjcmlwdGlvbnMvZDNlZTAyNTctZGVhMC00OWRiLThlMzQtMDNjZGNmMWQwYWI1L3Jlc291cmNlR3JvdXBzL3JnLWx6bGFiLXNhbmRib3gvcHJvdmlkZXJzL01pY3Jvc29mdC5OZXR3b3JrL25ldHdvcmtTZWN1cml0eUdyb3Vwcy9uc2ctbHpsYWItc2FuZGJveC12bQ==": {
+		"resource_id": "/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/networkInterfaces/nic-lzlab-sandbox-vm|/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/networkSecurityGroups/nsg-lzlab-sandbox-vm",
+		"resource_type": "azurerm_network_interface_security_group_association",
+		"resource_name": "res-5"
+	},
+	"/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/networkSecurityGroups/nsg-lzlab-sandbox-vm": {
+		"resource_id": "/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/networkSecurityGroups/nsg-lzlab-sandbox-vm",
+		"resource_type": "azurerm_network_security_group",
+		"resource_name": "res-6"
+	},
+	"/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/privateDnsZones/privatelink.blob.core.windows.net": {
+		"resource_id": "/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/privateDnsZones/privatelink.blob.core.windows.net",
+		"resource_type": "azurerm_private_dns_zone",
+		"resource_name": "res-7"
+	},
+	"/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/privateDnsZones/privatelink.blob.core.windows.net/virtualNetworkLinks/rdm5jg65rcq3o": {
+		"resource_id": "/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/privateDnsZones/privatelink.blob.core.windows.net/virtualNetworkLinks/rdm5jg65rcq3o",
+		"resource_type": "azurerm_private_dns_zone_virtual_network_link",
+		"resource_name": "res-8"
+	},
+	"/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/privateEndpoints/pe-stlzlabsandboxhkvmsw": {
+		"resource_id": "/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/privateEndpoints/pe-stlzlabsandboxhkvmsw",
+		"resource_type": "azurerm_private_endpoint",
+		"resource_name": "res-9"
+	},
+	"/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/publicIPAddresses/pip-lzlab-sandbox-vm": {
+		"resource_id": "/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/publicIPAddresses/pip-lzlab-sandbox-vm",
+		"resource_type": "azurerm_public_ip",
+		"resource_name": "res-10"
+	},
+	"/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/virtualNetworks/vnet-lzlab-sandbox": {
+		"resource_id": "/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Network/virtualNetworks/vnet-lzlab-sandbox",
+		"resource_type": "azurerm_virtual_network",
+		"resource_name": "res-11"
+	},
+	"/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Storage/storageAccounts/stlzlabsandboxhkvmsw": {
+		"resource_id": "/subscriptions/d3ee0257-dea0-49db-8e34-03cdcf1d0ab5/resourceGroups/rg-lzlab-sandbox/providers/Microsoft.Storage/storageAccounts/stlzlabsandboxhkvmsw",
+		"resource_type": "azurerm_storage_account",
+		"resource_name": "res-12"
+	}
+}
